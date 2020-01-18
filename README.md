@@ -1,1 +1,3 @@
-# tetris
+# Tetris
+
+Tetris game for Windows
